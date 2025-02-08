@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Ryan Rivera!  
+🚀 **Frontend Developer | React Enthusiast**  
+![bannerRJ7](https://github.com/user-attachments/assets/135f3a74-2498-4368-982a-dc9a1247da94)
 
-<!--
-**rj7rivera/rj7RIVERA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tecnologías:  
+- **Lenguajes:** JavaScript, TypeScript  
+- **Frameworks:** React, Next.js  
+- **Estilos:** Tailwind CSS, Styled Components  
+- **Herramientas:** Git, Figma, Vite  
 
-Here are some ideas to get you started:
+📫 **Contáctame:**  
+- [LinkedIn](https://linkedin.com/in/tuusuario)  
+- [Portafolio](https://tuportafolio.com)  
+- [Twitter](https://twitter.com/tuusuario)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Dato Curioso:** Siempre estoy explorando nuevas tecnologías para mejorar la experiencia de usuario.  
